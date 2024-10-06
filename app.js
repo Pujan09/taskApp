@@ -25,7 +25,7 @@ function handleLogin(event) {
 function handleSignUp(event) {
     event.preventDefault();
     alert('Account created successfully! Now login.');
-    switchForm('login'); // Switch to login form after sign-up
+    switchForm('login'); // Switches to login form after sign-up
 }
 
 // Handle Forgot Password (for now, just demo purposes)
