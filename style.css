@@ -45,7 +45,7 @@ body {
     top: 10px;           /* Moves button 10px from the top */
     left: 10px;          /* Moves button 10px from the left */
     background-color: #007bff; /* Button background color */
-    color: white; /* Button text color */
+    color: rgb(255, 255, 255); /* Button text color */
     border: none; /* Remove border */
     padding: 5px 5px;/* Add padding */
     width:100px;
