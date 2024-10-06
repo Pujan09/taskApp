@@ -82,7 +82,7 @@ function addTask() {
 
     // displayTask(task);
 
-    
+    // Clear form fields
     taskTitleInput.value = '';
     taskDescInput.value = '';
     taskDateInput.value = '';
