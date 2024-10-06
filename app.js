@@ -61,7 +61,7 @@ function addTask() {
     const taskPriority = taskPriorityInput.value; 
     const taskCategory = taskCategoryInput.value; 
 
-    if (title === '') return;  // Don't allow empty titles
+    if (title === '') return;  // 
 
     // Create task object
     const task = {
